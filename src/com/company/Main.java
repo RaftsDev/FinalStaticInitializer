@@ -24,5 +24,7 @@ public class Main {
         //Check acces to change value of final variable - Error
         //one.instanceNumber = 100; *** Error
 
+        StaticInit sib = new StaticInit("Test");
+
     }
 }
