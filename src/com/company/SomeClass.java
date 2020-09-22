@@ -14,4 +14,6 @@ public class SomeClass {
     public String getName() {
         return name;
     }
+
+
 }
